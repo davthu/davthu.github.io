@@ -2,11 +2,11 @@
 title: David Thunman
 email: hello@davidthunman.com
 description: > # this means to ignore newlines until "baseurl:"
-  The professional website of David Thunman
+  An impostor's website
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://davidthunman.com" # the base hostname & protocol for your site
+url: "https://www.davidthunman.com" # the base hostname & protocol for your site
 twitter_username: david_thunman
-github_username: jekydavthull
+github_username: davthu
 
 # Build settings
 markdown: kramdown
